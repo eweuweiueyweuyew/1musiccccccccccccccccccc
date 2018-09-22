@@ -1,6 +1,4 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
-stayinchannel=true
-songinstatus=true
+token=NDkzMTkwNzQ1Njg0MDQ5OTMw.DohYBw.oJ3IIiisnIVq8ezpIUIGQwk-Tg8
+owner=474175378118803466 
+prefix=1
+game=Watching
